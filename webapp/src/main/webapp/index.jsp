@@ -76,7 +76,7 @@
     <div class="container login-container">
       <div class="row">
         <div class="col-md-6 ads">
-          <h1><span id="fl">Company</span><span id="sl">Name</span></h1>
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRgVpimSOBtdi23avb29c54iQrDP9mhvjCamB4stX065PCFvnVY" class="img-responsive"/>
         </div>
         <div class="col-md-6 login-form">
           <div class="profile-img">
