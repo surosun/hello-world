@@ -76,7 +76,7 @@
     <div class="container login-container">
       <div class="row">
         <div class="col-md-6 ads">
-          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRgVpimSOBtdi23avb29c54iQrDP9mhvjCamB4stX065PCFvnVY" class="img-responsive"/>
+          <img src="http://pluspng.com/img-png/png-logo-design-fancy-png-logo-design-91-on-professional-logo-design-with-png-logo-design-734.png" class="img-responsive"/>
         </div>
         <div class="col-md-6 login-form">
           <div class="profile-img">
