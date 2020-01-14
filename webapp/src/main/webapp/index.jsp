@@ -76,7 +76,7 @@
     <div class="container login-container">
       <div class="row">
         <div class="col-md-6 ads">
-          <img src="http://pluspng.com/img-png/png-logo-design-fancy-png-logo-design-91-on-professional-logo-design-with-png-logo-design-734.png" class="img-fluid"/>
+          <img src="http://pluspng.com/img-png/art-of-sun-logo-vector-png-sun-logos-1877149-389.png" class="img-fluid"/>
         </div>
         <div class="col-md-6 login-form">
           <div class="profile-img">
